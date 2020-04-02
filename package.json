@@ -1,5 +1,5 @@
 {
-  "name": "pomodoro-timer-example",
+  "name": "docs-useeffect-useeffect-0",
   "version": "0.1.0",
   "scripts": {
     "build": "bsb -make-world",
